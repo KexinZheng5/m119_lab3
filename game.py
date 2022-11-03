@@ -1,9 +1,11 @@
 # game gui
 
-# reference: https://www.quickprogrammingtips.com/python/how-to-create-canvas-animation-using-tkinter.html
+# reference: 
+# What: tkinter demo for displaying a moving shape
+# Where: https://www.quickprogrammingtips.com/python/how-to-create-canvas-animation-using-tkinter.html
+# Why: reference for displaying a moving bar
 
 import tkinter
-
  
 class Game():
     # window size
